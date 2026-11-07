@@ -19,6 +19,18 @@ Most AI video tools lock creators behind expensive credit meters, subscription p
 
 ---
 
+## 🧩 Standalone Native Modules (Use Only What You Need)
+
+Don't want to run the full monolithic studio? Every core capability is packaged as a **standalone, zero-dependency native module** under [`modules/`](modules/) with its own 1-click launcher and CLI:
+
+1. **[01-Voice-Studio](modules/01-voice-studio/):** Offline neural speech synthesis & `-16 LUFS` broadcast loudness normalization.
+2. **[02-LipSync-Animator](modules/02-lipsync-animator/):** Audio-to-video neural talking-head animation.
+3. **[03-Card-Studio](modules/03-card-studio/):** 9:16 vertical presentation cards with contain scaling (zero head cut-offs).
+4. **[04-Video-NLE](modules/04-video-nle/):** Multi-track timeline compositor and video master assembler.
+5. **[05-Faceless-Generator](modules/05-faceless-generator/):** Autonomous b-roll reels and text-to-video explainers.
+
+---
+
 ## 🏗️ Architecture
 
 ```mermaid
