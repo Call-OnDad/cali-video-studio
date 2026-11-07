@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Sensitive / Private Audio & Voice Identity Files
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+private/
+approved-voices/
+auditions/
+speaker-identity.pt
+*.wav
+*.mp3
+*.aac
+*.flac
+*.m4a
+
+# Rendered Video Exports & Working Caches
+output/
+exports/
+*.mp4
+*.webm
+*.avi
+*.mkv
+checkpoints/
+models/
+cache/
+
+# OS & IDE artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.log
+.env
+.env.local
