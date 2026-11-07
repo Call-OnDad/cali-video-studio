@@ -3,6 +3,8 @@
 > **Free, self-hosted AI video creation & audio-driven neural lip-sync pipeline for creators.**  
 > Create expressive talking avatars with 100% syllable-locked speech, zero cloud API fees, and zero credit limits.
 
+![Cali Sovereign Command: Video & Media Studio Dashboard](docs/studio.webp)
+
 ---
 
 ## 🌟 Why Cali Video Studio?
